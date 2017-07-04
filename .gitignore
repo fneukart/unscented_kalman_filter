@@ -1,0 +1,6 @@
+# silly macOS
+.DS_Store
+
+# build files
+build/
+neukart_unscented_kalman_filter.zip
